@@ -36,4 +36,7 @@ Machine Learning, Deep Learning, Computer Vision, Image Classification, Transfer
 
 I have attached the snip shots of the Gradio Output below.
 
+<img width="1300" height="471" alt="image" src="https://github.com/user-attachments/assets/ef957ce4-4971-4996-b66d-1f07b81f5acb" />
+
+
 
