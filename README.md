@@ -4,6 +4,8 @@
 
 **Domain:** Computer Vision - Fine-grained image classification
 
+**App Link:** https://huggingface.co/spaces/Vidya2305/Food_Image_Classification-Transfer_learning_with_PyTorch
+
 **📌 Real-time Business Use Cases:**
 
 ● Restaurant and menu automation: Automatically identify dishes from photos for menu tagging or calorie estimation apps.
