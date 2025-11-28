@@ -1,3 +1,5 @@
+# 8. Deployment (optional) - Export model with TorchScript or create a Streamlit app for inference.
+
 import torch
 import torchvision.transforms as transforms
 from torchvision import models
@@ -90,5 +92,6 @@ with gr.Blocks() as demo:
                 inputs=image_input,
                 outputs=output_label,
             )
+
 
 demo.launch(share=True)
